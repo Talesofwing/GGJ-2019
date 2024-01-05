@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6a0c032d1d262124dacba7c00e3fcc21
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CrashLanding BB
+  fontNames:
+  - CrashLanding BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 34492399160022243ac46f452ed9a1be, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
